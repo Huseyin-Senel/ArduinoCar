@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.exe.config
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.exe
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.pdb
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_Kontrol.Properties.Resources.resources
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT araba kontrol.exe
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT araba kontrol.pdb
+C:\Users\HP\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTTarabaKontrol.Form1.resources
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.exe.config
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.exe
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\bin\Debug\GTT araba kontrol.pdb
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csprojAssemblyReference.cache
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTTarabaKontrol.Form1.resources
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_Kontrol.Properties.Resources.resources
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csproj.GenerateResource.cache
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT_araba_kontrol.csproj.CoreCompileInputs.cache
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT araba kontrol.exe
+C:\Users\teknofest\Desktop\GTT_araba_kontrol\GTT_araba_kontrol\obj\Debug\GTT araba kontrol.pdb
