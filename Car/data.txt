@@ -1,0 +1,13 @@
+l ileri
+z dur
+0 geri
+3 sað
+4 sol
+6 dortlu kapa
+5 dortlu ac
+8 sað sinyal kapa
+7 sað sinyal aç
+1 sol sinyal kapa
+9 sol sinyal aç
+n far kapa
+m far aç
